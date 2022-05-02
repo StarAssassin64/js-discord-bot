@@ -1,0 +1,18 @@
+{
+  "name": "js-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js-discord-bot"
+  },
+  "author": "StarAssassin64",
+  "license": "WTFPL",
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
