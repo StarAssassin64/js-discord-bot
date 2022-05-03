@@ -14,5 +14,10 @@
   "license": "WTFPL",
   "devDependencies": {
     "eslint": "^8.14.0"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.0"
   }
 }
